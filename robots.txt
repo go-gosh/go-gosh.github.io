@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://go-gosh.github.io/sitemap.xml
